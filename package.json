@@ -1,0 +1,11 @@
+{
+  "name": "fcc-file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "free code camp project - file metadata microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damian Pagowski",
+  "license": "ISC"
+}
